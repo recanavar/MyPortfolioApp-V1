@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyPortfolio</string>
+    <string name="btn_popular_movies">POPULAR MOVIES</string>
+    <string name="btn_stock_hawk">STOCK HAWK</string>
+    <string name="btn_build_it_bigger">BUILD IT BIGGER</string>
+    <string name="btn_make_your_app_material">Make Your App Material</string>
+    <string name="btn_go_ubiquitous">GO UBIQUITOUS</string>
+    <string name="btn_capstone">CAPSTONE</string>
+
+</resources>
